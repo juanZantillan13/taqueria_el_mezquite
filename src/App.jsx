@@ -118,7 +118,7 @@ export default function App() {
                 )}
 
                 <h2 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black text-brand-red tracking-tight leading-none uppercase text-center md:text-left">
-                  ¡Los mejores<br />tacos al carbón!
+                  ¡Los mejores tacos<br />a la plancha!
                 </h2>
                 <p className="text-xl md:text-2xl lg:text-3xl font-bold text-brand-yellow italic text-center md:text-left">
                   El Verdadero Sabor del Mezquite
@@ -171,9 +171,10 @@ export default function App() {
             {/* Información Fija de la Tienda */}
             <div className="bg-brand-cream/40 p-4 rounded-2xl shadow-xs border border-gray-100 text-center lg:text-left space-y-3">
               <div>
-                <h4 className="text-md font-black text-gray-900">Ubicación de la Tienda</h4>
+                <h4 className="text-md font-black text-gray-900">Nuestras Ubicaciones</h4>
                 <p className="text-xs font-medium text-gray-500 mt-1">
-                  Av. Reforma 1234, Ciudad Estrella, CP 83400
+                 Av. Nuevo León y Calle 7, Col. Del Bosque, C.P. 83490<br/>
+                 Av. Lázaro Cárdenas y Calle 32, Col. Altar, C.P. 83490
                 </p>
               </div>
               
