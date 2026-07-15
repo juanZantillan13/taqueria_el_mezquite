@@ -12,7 +12,7 @@ import MenuScreen from './MenuScreen';
 import PromosScreen from './PromosScreen';
 
 // Importación de la lógica asíncrona real
-import { inicializarDatosLandingReales } from './taqueriaService';
+//import { inicializarDatosLandingReales } from './taqueriaService';
 
 // Categorías actualizadas con las imágenes locales de tus archivos
 const categories = [

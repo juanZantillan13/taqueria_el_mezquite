@@ -1,5 +1,5 @@
 // 1. Promisificación de la API de Geolocalización (GPS del navegador)
-export const obtenerCoordenadasGPS = () => {
+/*export const obtenerCoordenadasGPS = () => {
   return new Promise((resolve, reject) => {
     if (!navigator.geolocation) {
       reject(new Error("Geolocalización no soportada por el navegador"));
@@ -63,3 +63,4 @@ export const inicializarDatosLandingReales = async () => {
 
   return { estaAbierto, aviso, ubicacionIP, distancia: distanciaKm };
 };
+*/
